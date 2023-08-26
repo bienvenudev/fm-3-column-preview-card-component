@@ -108,12 +108,26 @@
     margin-top: -0.75rem;
   }
 
+  .btn:hover {
+    cursor: pointer;
+    color: var(--clr-verylightgray);
+    border: 1px solid white;
+  }
+
+  .btn-sedans:hover {
+    background: var(--clr-brightorange); 
+  }
+
   .suv {
     background-color: var(--clr-darkcyan);
   }
 
   .btn-suv {
     color: var(--clr-darkcyan);
+  }
+
+  .btn-suv:hover {
+    background: var(--clr-darkcyan);
   }
 
   .luxury {
@@ -124,6 +138,37 @@
     color: var(--clr-verydarkcyan);
   }
 
+  .btn-luxury:hover {
+    background: var(--clr-verydarkcyan);
+  }
+
+  @media (min-width: 800px) {
+    .card {
+      display: flex;
+      max-width: 59.375rem;
+    }
+
+    .sedans {
+      /* flex: 1; */
+      padding-right: 4.063rem;
+    }
+
+    /* .suv {
+      flex: 1;
+    }
+
+    .luxury {
+      flex: 1;
+    } */
+
+    .card__item p {
+      max-width: 43.75rem;
+    }
+
+    .btn {
+      margin-top: 5.313rem;
+    }
+  }
   /* .attribution {
     font-size: 11px;
     text-align: center;
