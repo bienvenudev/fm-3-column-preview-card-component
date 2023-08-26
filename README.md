@@ -21,7 +21,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![image](https://github.com/jwben1/fm-3-column-preview-card-component/assets/132217074/25f40238-116d-405c-817a-c94a1466e18f)
+
+
+![image](https://github.com/jwben1/fm-3-column-preview-card-component/assets/132217074/b02bb61e-eb92-48d8-a0b5-176b817f8245)
+
+
+
+
 
 ### Links
 
