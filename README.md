@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/3columnpreviewcard-using-vanilla-html-and-css-HCUoLUzjVd
-- Live Site URL: https://jwben1.github.io/fm-3-column-preview-card-component/
+- Live Site URL: https://bienvenudev.github.io/fm-3-column-preview-card-component/
 
 ## My process
 
